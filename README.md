@@ -1,3 +1,5 @@
 # projNetSalary
 
-JAVA: Exercise about concept of the dependencies inversion
+JAVA: Exercise about concept of:
+. The dependencies inversion
+. The Injection of dependency 
